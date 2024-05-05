@@ -1,0 +1,17 @@
+.header {
+    font-size: 50px;
+    text-align: center;
+    height: 100px;
+    background-color: black;
+
+    color: rgb(106, 0, 255);
+}	
+    .header a{
+    font-weight: 500;
+    margin-right: 20px;
+    color: gold;
+}
+.formatting{
+    background-color: grey;
+    text-align: center;
+}
